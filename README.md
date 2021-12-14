@@ -296,6 +296,8 @@ else if (ue.getStringID().equals("register"))
 
 - 실행영상 :
     
-    [분산시스템 10팀 어플 실행 영상.mp4](img_ref/%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A1%E1%86%AB%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7_10%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%8B%E1%85%A5%E1%84%91%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%92%E1%85%A2%E1%86%BC_%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mp4)
+https://user-images.githubusercontent.com/66371206/145935815-49895227-6a1b-44b1-8368-9f86112cf48c.mp4
+
+
     
 - Github URL : [https://github.com/071yoon/MBTI_Matching.git](https://github.com/071yoon/MBTI_Matching.git)
